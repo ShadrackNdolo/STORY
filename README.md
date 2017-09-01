@@ -1,5 +1,4 @@
-# STORY
-# Weather-Channel.
+# STORY.
 
 #### This is a basic website to help you write a story of  your choice. Friday 1st September 2017.
 
